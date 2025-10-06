@@ -1,0 +1,17 @@
+backend/env/
+backend/appdata.json
+backend/db.sqlite3
+backend/keys/
+backend/.env
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+frontend/.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+**/__pycache__/
+**/migrations/__pycache__/
+
+
